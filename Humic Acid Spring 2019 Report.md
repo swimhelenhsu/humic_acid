@@ -3,16 +3,15 @@
 #### Matthew Lee, Walter Guardado, Carolyn Wang
 #### March 15, 2019
 
-**[Sidney: Hey team! I'm going to making comments in these bolded brackets.]**
+**[Helen: Hey team! I'm also going to making comments in these bolded brackets.]**
 
-**[I see that you have deleted my comments from your last report submission. PLEASE DO NOT DELETE GRADER COMMENTS. We need you to keep them in the report so that we can look back and check that you have addressed them. Once we see that you have addressed our comments, we will delete them ourselves.]**
+**[Thanks for keeping the comments, please keep on keeping them :)]**
 
-**[Overall: Hey friends! Some general comments for the whole report... please go back an proofread thoroughly for consistency and grammar issues. Also, sometimes you guys capitalize words like humic acid, clay, turbidity, etc. which is not necessary. Remember to label all of your tables and figures correctly and refer to them in the text. If you don't refer to them in the text, it is not clear which sections of your report go with which figure.]**
 
 ## Abstract
 This semester, samples of HA at 5 mg/L, 10 mg/L and 15 mg/L and concentrations of clay at 10 NTU, 100 NTU and 100 NTU are tested separately to find the respective absorbances. The individual absorbances recorded are used to compare with the mixture of different concentrations of clay and HA to find the additive aspects of the mixture.  The results of these tests will investigate how absorbance and spectrophotometry can be used to quantify the concentrations of humic acid and clay in water mixtures.  This capabilitiy can impact the ways AguaClara plants measure and test the efficiency of current and improved processes.
 
-**[Talk a little bit about why your team is doing these tests because otherwise the abstract sounds jarring.]**
+**[Talk a little bit more about how this fits into AguaClara as a whole perhaps so it's more interesting and stimulating as to why this is important.]**
 
 ## Introduction
 Natural Organic Matter (NOM) exists in ground and surface waters with various chemical compositions. It is dipolar, which means that it is an electrically neutral molecule carrying a positive and negative charge. This characteristic allows intermolecular forces with neighboring molecules. NOM can serve as a nutrient for bacteria, viruses, and pathogens, encouraging their re-germination processes. Additionally, NOM produces carcinogenic by-products during the degradation process. It then becomes imperative to remove NOM in water. The amount of NOM in raw water supplies is greater in areas such as Northern Europe and North America. However, there isn't a robust model predicting how NOM behaves in water and thus, there are not effective treatment methods for NOM removal. Limited knowledge in this area affects drinking water treatment significantly. Many researchers believe the role of NOM in water might call for a need to increase coagulant doses.
@@ -62,7 +61,7 @@ Figure 1: The linear relationship derived between humic acid absorbance and humi
 
 Figure 1 was created by python code and code can be found in the "Python Code" section.
 
-Clay mixtures were run through the turbidity meter and spectrophotmeter.  Results showed that the turbidity and absorbance of clay were related linearly. The relationship was obtained: $$ y=0.0199x+0.0554 $$, where y is the absorbance and x is the turbidity of clay.This relationship implies by measuring the effluent turbidity of a clay sample, the absorbance of clay can be calculated using the equation above. Fall 2018's work in using absorbance gives future teams data for future spectroscopy work.
+Clay mixtures were run through the turbidity meter and spectrophotmeter.  Results showed that the turbidity and absorbance of clay were related linearly. The relationship was obtained: $$ y=0.0199x+0.0554 $$, where y is the absorbance and x is the turbidity of clay.This relationship implies by measuring the effluent turbidity of a clay sample, the absorbance of clay can be calculated using the equation above. Fall 2018's work in using absorbance gives future teams data for future spectroscopy work.**[Please watch for tenses]**
 
 
 <img src="https://github.com/AguaClara/humic_acid/blob/master/test3.png?raw=true" height=250 width=400>
@@ -71,7 +70,6 @@ Figure 2: The linear relationship derived between clay absorbance and clay turbi
 
 Figure 2 was created by python code and code can be found in the "Python Code" section.
 
-**[Try to refer to your figures in the text so that your report can be easily skimmed.]**
 
 ## Methods
 #### Experimental Methods
@@ -79,9 +77,9 @@ The Spring 2019 HA Team assembled a recycled system (Figure 3) to eliminate any 
 
 Additionally, in previous experiments, clay turbidity was controlled by ProCoda. In order to know the exact concentration of clay within the system, the second set of experiments focused on achieving 10 NTU, 100 NTU, 1000 NTU readings and measuring the amount of clay used, and verifying whether the relationship between clay concentration and absorbance held true for a recycled system.
 
-The last set of experiments tested a mixture of clay at 10 NTU, 100 NTU, 1000 NTU, with HA at 5 mg/L. In the second set of experiments, the exact amount of clay associated with different concentrations was determined and can be directly used in this step. The readings on the turbidimeter and spectrophotometer were **[were]** recorded.
+The last set of experiments tested a mixture of clay at 10 NTU, 100 NTU, 1000 NTU, with HA at 5 mg/L. In the second set of experiments, the exact amount of clay associated with different concentrations was determined and can be directly used in this step. The readings on the turbidimeter and spectrophotometer were recorded.
 
- **[Figure captions go below the figure. (You were right to put your table caption above the table though!)]**
+
 
 
 <img src="https://github.com/AguaClara/humic_acid/blob/master/Schematic%20Drawing%20SP19.png?raw=true" height=250 width=400>
@@ -89,11 +87,11 @@ Figure 3: A schematic drawing of the experimental system set-up
 
 
 #### Procedure
-The following experiments were run in the recycled **[recycled]** system to determine the relationship between various influent mixtures and their corresponding absorbances.
+The following experiments were run in the recycled system to determine the relationship between various influent mixtures and their corresponding absorbances.
 
 Humic acid only influent trials:
 * Flush the system at high pump speed with distilled water
-* Empty the system of water **[water]**
+* Empty the system of water 
 * Fill the 6 L bucket with 6 L of water
 * Turn on the water pump and let water flow at 100 RPM. Let system flow for a few minutes and make sure that the turbidity and absorbance readings are low
 * Using 1.00 mL pipette, pipette 10 mL of the 3 g/L stock solution of humic acid to attain 5 mg/L (for 10 mg/L, pipette 20 mL, for 15 mg/L pipette 30 ML), use metal rod to mix well
@@ -101,7 +99,7 @@ Humic acid only influent trials:
 
 Clay only influent trials:
 * Flush the system at high pump speed with distilled water
-* Empty the system of water **[water]**
+* Empty the system of water 
 * Fill the 6 L bucket with 6 L of water
 * Turn on the water pump and let water flow at 100 RPM. Let system flow for a few minutes and make sure that the turbidity and absorbance readings are low
 * Turn on mixer
@@ -112,7 +110,7 @@ Clay only influent trials:
 
 Mixture influent trials:
 * Flush the system at high pump speed with distilled water
-* Empty the system of water **[water]**
+* Empty the system of water 
 * Fill the 6 L bucket with 6 L of water
 * Turn on the water pump and let water flow at 100 RPM. Let system flow for a few minutes and make sure that the turbidity and absorbance readings are low
 * Turn on mixer
@@ -121,14 +119,12 @@ Mixture influent trials:
 * Add clay into 6 L bucket and mix well
 * Record absorbances and turbidity readings after system reaches steady state for clay trial
 
-**[If you don't use periods for some bullets, don't for all of them. Choose one and be consistent]**
 
 Stop the experiment by shutting down all the water pump, turbidimeter, spectrophotomer, and clay stirrer.
 
 
 ## Results and Analysis
-In the first set of experiments, different humic acid concentrations were tested. Absorbance and turbidity readings are recorded for later use. **[No need to capitalize concentrations, absorbance, and turbidity.]**
-**[Label your tables]**
+In the first set of experiments, different humic acid concentrations were tested. Absorbance and turbidity readings are recorded for later use. 
 
 
 Table 2: Absorbances of varying humic acid concentrations
@@ -155,7 +151,7 @@ Table 3: Mass of clay added into the system and corresponding turbidities
 
 <img src="https://github.com/AguaClara/humic_acid/blob/master/5%20mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400>
 
-Figure 4: The observed and projected absorbance of 5 mg/L of humic acid with clay.  The projected absorbance is the absorbance of the mixture in the case where the total absorbance is the pure sum of 5 mg/L humic acid and the corresponding clay absorbance at a given NTU.  The absorbance of the mixture at low turbidity is close to the projected value, but higher concentrations of clay exhibit no specific relationship.
+Figure 4: The observed and projected absorbance of 5 mg/L of humic acid with clay.  The projected absorbance is the absorbance of the mixture in the case where the total absorbance is the pure sum of 5 mg/L humic acid and the corresponding clay absorbance at a given NTU.  **[watch tenses please]**The absorbance of the mixture at low turbidity is close to the projected value, but higher concentrations of clay exhibit no specific relationship.
 
 Table 4: Projected absorbances and observed absorbances for 5 mg/L of humic acid streams
 
@@ -167,7 +163,7 @@ Table 4: Projected absorbances and observed absorbances for 5 mg/L of humic acid
 |1.1356                          |2                              |76.12%                       |
 
 
-As seen in table 4's data, **[Where? Refer to your figures.]** that at low turbidities, the projected absorbances - the absorbance of pure humic acid added with the absorbance of clay - are approximately equal to the observed absorbance of the mixture influent. However, as NTU increased, the ideal projected absorbance diverged quickly with the observed absorbances. This suggests that there are humic-acid clay interactions present that do not allow for mixture absorbances to be strictly additive.
+As seen in table 4's data, **[captialize table and figures]** that at low turbidities, the projected absorbances - the absorbance of pure humic acid added with the absorbance of clay - are approximately equal to the observed absorbance of the mixture influent. However, as NTU increased, the ideal projected absorbance diverged quickly with the observed absorbances. This suggests that there are humic-acid clay interactions present that do not allow for mixture absorbances to be strictly additive.
 
 <img src="https://github.com/AguaClara/humic_acid/blob/master/10mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400>
 
